@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/readme.jpg" width="700">
+</p>
+
 # Forecasting Económico del Sector Turístico Canario mediante Técnicas de Machine Learning
 
 ## 📌 Descripción del Proyecto
